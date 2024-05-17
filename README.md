@@ -39,3 +39,5 @@ Step 3: Go to the project directory on your terminal.
 Step 4: Use the command python3 main.py to start the game.
 Step 5: Happy Playing!
 
+##
+
