@@ -33,11 +33,11 @@ I created this Flappy Bird clone to:
 
 ## Getting Started
 
-Step 1: Make sure to have Python and Pygame library installed on your PC/Mac/ or Linux device.
-Step 2: Clone the project files to this repository.
-Step 3: Go to the project directory on your terminal.
-Step 4: Use the command python3 main.py to start the game.
-Step 5: Happy Playing!
+- Step 1: Make sure to have Python and Pygame library installed on your PC/Mac/ or Linux device.
+- Step 2: Clone the project files to this repository.
+- Step 3: Go to the project directory on your terminal.
+- Step 4: Use the command python3 main.py to start the game.
+- Step 5: Happy Playing!
 
 ## License
 The entire of this project is licensed under Apache License 2.0.
